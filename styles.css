@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.main-header {
+
+}
+
+.footer {
+    font-size: 80%;
+}
+
+.picture {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+    object-position: top center;
+}
+
+.second-picture {
+    transform: scale(0.5);
+}
+
+h1 {
+    font-size: 36px;
+}
